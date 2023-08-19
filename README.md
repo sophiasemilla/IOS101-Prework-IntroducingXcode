@@ -6,7 +6,7 @@ Submitted by: **Maria Sophia Semilla**
 
 **Changing Background** is an app that randomly changes the background of the app when the button is clicked 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -15,7 +15,8 @@ The following **required** functionality is completed:
 - [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
 
-**Improved Features**
+
+Other Implemented Features:
 - [x] Tapping the second botton changes the text label colors to a random color
  
 ## Video Walkthrough
@@ -25,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
