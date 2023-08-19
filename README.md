@@ -14,6 +14,9 @@ The following **required** functionality is completed:
 
 - [x] Users see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+
+**Improved Features**
+- [x] Tapping the second botton changes the text label colors to a random color
  
 ## Video Walkthrough
 
